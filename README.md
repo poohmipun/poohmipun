@@ -1,5 +1,5 @@
 # 🤗 About Me:
-My name is Poohmipun, and I work as a frontend developer in Thailand. At the moment, I'm studying Blender, Angular, and ThreeJS.
+My name is Poohmipun, and I work as a frontend developer base in Thailand
 <br><br>
 
 
